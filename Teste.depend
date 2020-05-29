@@ -2,3 +2,7 @@
 1590629493 source:c:\users\mcapi\documents\teste\main.cpp
 	<SFML/Graphics.hpp>
 
+1590788791 source:c:\users\mcapi\documents\testes com sfml\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
